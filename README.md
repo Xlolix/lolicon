@@ -1,0 +1,1 @@
+# lolicon.cyou on hexo
