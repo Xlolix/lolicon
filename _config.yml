@@ -4,7 +4,7 @@
 
 # Site
 subtitle: ' 我永远只喜欢萝莉'
-description: ''
+description: '我的一些日常和收集'
 keywords:
 author: kagura
 language: zh-CN
@@ -98,7 +98,12 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+#head selector
+menu: 
+        About : /about
+        友链 :  /友链
+        我的网盘 : /我的网盘
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: ""
