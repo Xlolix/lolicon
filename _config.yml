@@ -99,10 +99,6 @@ ignore:
 theme: fluid
 
 #head selector
-menu: 
-        About : /about
-        友链 :  /友链
-        我的网盘 : /我的网盘
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
