@@ -44,6 +44,3 @@ tags: tools
 
 ---
 官方wiki页面：[https://ehwiki.org/wiki/EHTracker](https://ehwiki.org/wiki/EHTracker)
-
----
-<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="WoSn-Q-w" data-limit="5"></script>
