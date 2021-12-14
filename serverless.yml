@@ -1,0 +1,16 @@
+component: website
+name: website-xzh5xMjnd
+org: '1308783170'
+app: hexo
+stage: prod
+inputs:
+ region: ap-chengdu
+ src:
+ src: ./public
+ index: index.html
+ error: index.html
+bucketName: my-bucket-cpriyud
+isAutoCiDeploy: true
+codePlatform: GITHUB
+gitUrl: 'https://github.com/kagura114/lolicon.git'
+branch: main
