@@ -6,9 +6,9 @@ stage: prod
 inputs:
  region: ap-chengdu
  src:
- src: ./public
- index: index.html
- error: index.html
+  src: ./public
+  index: index.html
+  error: index.html
 bucketName: my-bucket-cpriyud
 isAutoCiDeploy: true
 codePlatform: GITHUB
