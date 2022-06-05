@@ -7,4 +7,4 @@ It is a pixiv proxy to bypass the limitations of ``` pximg.net ``` you can just 
 ## To use them
 Just live a message in Issues and use it directly
 
-License: CC BY-NC-SA 4.0
+License: MIT
