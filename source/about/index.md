@@ -12,4 +12,15 @@ date: 2021-12-02 23:48:36
 
 以下为Google的广告，本站需要广告收入或捐赠以维持运行
 
-<script data-ad-client="ca-pub-1146814652288173" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1146814652288173"
+     crossorigin="anonymous"></script>
+<!-- Abad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1146814652288173"
+     data-ad-slot="1640901416"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
