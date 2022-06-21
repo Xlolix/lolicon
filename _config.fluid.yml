@@ -591,7 +591,7 @@ post:
   # Copyright, will be displayed at the end of each post
   copyright:
     enable: true
-    content: '本博客所有文章除特别声明外，均采用 <a href="https://mit-license.org/" rel="nofollow noopener">MIT</a> ，转载请注明出处！'
+    content: '本博客所有文章除特别声明外，均采用 <a href="https://mit-license.org/" rel="nofollow noopener">MIT协议</a> ，转载请注明出处！'
 
   # 文章底部上一篇下一篇功能
   # Link to previous/next post
@@ -603,9 +603,9 @@ post:
   custom:
     enable: true
     content: '
-    <h2> 留言區 </h2>
+    <h2> 留言区 </h2>
     <p> 
-    使用 Telegram 帳戶登錄並發表留言——請放心，該留言區由 Telegram 官方提供，我們不會竊取您的 Telegram 信息。
+    使用 Telegram 账户登陆并发表留言——此插件由第三方提供，请放心，我们不会获取你的 Telegram 信息。
     </p>
     <button id="loadingMsg" class="btn btn-outline-primary" type="button" disabled>
     <div  class="d-flex align-items-center">
@@ -671,127 +671,6 @@ post:
     type: disqus
 
 
-#---------------------------
-# 评论插件
-# Comment plugins
-#
-# 开启评论需要先设置上方 `post: comments: enable: true`，然后根据 `type` 设置下方对应的评论插件参数
-# Enable comments need to be set `post: comments: enable: true`, then set the corresponding comment plugin parameters below according to `type`
-#---------------------------
-
-# Utterances
-# 基于 GitHub Issues
-# Based on GitHub Issues
-# See: https://utteranc.es
-utterances:
-  repo:
-  issue_term: pathname
-  label: utterances
-  theme: github-light
-  theme_dark: github-dark
-  crossorigin: anonymous
-
-# Disqus
-# 基于第三方的服务，国内用户直接使用容易被墙，建议配合 Disqusjs
-# Based on third-party service
-# See: https://disqus.com
-disqus:
-  shortname:
-  # 以下为 Disqusjs 支持, 国内用户如果想使用 Disqus 建议配合使用
-  # The following are Disqusjs configurations, please ignore if DisqusJS is not required
-  # See: https://github.com/SukkaW/DisqusJS
-  disqusjs: false
-  apikey:
-
-# Gitalk
-# 基于 GitHub Issues
-# Based on GitHub Issues
-# See: https://github.com/gitalk/gitalk#options
-gitalk:
-  clientID:
-  clientSecret:
-  repo:
-  owner:
-  admin: ['name']
-  language: zh-CN
-  labels: ['Gitalk']
-  perPage: 10
-  pagerDirection: last
-  distractionFreeMode: false
-  createIssueManually: true
-  # 默认 proxy 可能会失效，解决方法请见下方链接
-  # The default proxy may be invalid, refer to the links for solutions
-  # https://github.com/gitalk/gitalk/issues/429
-  # https://github.com/Zibri/cloudflare-cors-anywhere
-  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
-
-# Valine
-# 基于 LeanCloud
-# Based on LeanCloud
-# See: https://valine.js.org/
-valine:
-  appId:
-  appKey:
-  path: window.location.pathname
-  placeholder:
-  avatar: 'retro'
-  meta: ['nick', 'mail', 'link']
-  requiredFields: []
-  pageSize: 10
-  lang: 'zh-CN'
-  highlight: false
-  recordIP: false
-  serverURLs: ''
-  emojiCDN:
-  emojiMaps:
-  enableQQ: false
-
-# Waline
-# 从 Valine 衍生而来，额外增加了服务端和多种功能
-# Derived from Valine, with self-hosted service and new features
-# See: https://waline.js.org/
-waline:
-  serverURL: ''
-  path: window.location.pathname
-  placeholder:
-  meta: ['nick', 'mail', 'link']
-  requiredMeta: ['nick']
-  lang: 'zh-CN'
-  emoji: ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
-  dark: 'html[data-user-color-scheme="dark"]'
-  avatar: 'retro'
-  avatarCDN: 'https://seccdn.libravatar.org/avatar/'
-  avatarForce: false
-  wordLimit: 0
-  pageSize: 10
-  highlight: true
-
-# 畅言 Changyan
-# 基于第三方的服务
-# Based on third-party service, insufficient support for regions outside China
-# http://changyan.kuaizhan.com
-changyan:
-  appid: ''
-  appkey: ''
-
-# 来必力 Livere
-# 基于第三方的服务
-# Based on third-party service
-# See: https://www.livere.com
-livere:
-  uid: ''
-
-# Remark42
-# 需要自托管服务端
-# Based on self-hosted service
-# See: https://remark42.com
-remark42:
-  host:
-  site_id:
-  max_shown_comments: 10
-  locale: zh
-  components: ['embed']
-  
 #---------------------------
 # 归档页
 # Archive Page
