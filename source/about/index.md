@@ -10,6 +10,11 @@ date: 2021-12-02 23:48:36
 
 ---
 
+对于在中国大陆的用户，你可以使用以下链接，注册魔戒机场，也可以通过这个方式支持我
+[魔戒](https://mojie.info/#/register?code=3AojYHNV)
+
+---
+
 以下为Google的广告，本站需要广告收入或捐赠以维持运行
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1146814652288173"
