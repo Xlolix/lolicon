@@ -1,10 +1,18 @@
-This is the contents of lolicon.cyou
+This is the respiratory of lolicon.cyou
 ## How to build
 Use ``` npm run build ``` to build the site manually.
 And same to build with cloudflare pages
+Please remember the built website it in  ``` ./public ```
 ## About pixiv.lolicon.cyou
-It is a pixiv proxy to bypass the limitations of ``` pximg.net ``` you can just just replace them with ``` pximg.net ```
-## To use them
-Just live a message in Issues and use it directly
+It is a pixiv proxy to bypass the limitations of  ``` pximg.net ``` you can just just replace them with ``` pximg.net ```
 
-License: MIT
+The whole website and GitHub respiratory is licensed under MIT
+ ---
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ ---
