@@ -1,7 +1,7 @@
 ---
 title: L.H.B图片收藏
 date: 2022-01-20 20:58:33
-tags: [图片]
+tags: 画师合集
 ---
 
 画师：[L.H.B](https://www.pixiv.net/users/55400004)

@@ -1,7 +1,7 @@
 ---
 title: rurudo图片收藏
 date: 2022-03-31 00:29:10
-tags:
+tags: 画师合集
 ---
 ![](https://pixiv.lolicon.cyou/img-original/img/2022/02/06/00/00/14/96029615_p0.png)
 ![](https://pixiv.lolicon.cyou/img-original/img/2021/12/24/00/00/10/94964157_p0.png)
