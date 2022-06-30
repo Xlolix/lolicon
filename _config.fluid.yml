@@ -603,6 +603,7 @@ post:
   custom:
     enable: true
     content: '
+    <p>交流群<br><a target="_blank" rel="noopener" href="https://t.me/+uGNvWhiMf91lZmU1">Telegram Group</a></p>
     <h2> 留言区 </h2>
     <p> 
     使用 Telegram 账户登陆并发表留言——此插件由第三方提供，请放心，我们不会获取你的 Telegram 信息。

@@ -11,5 +11,9 @@ date: 2021-12-02 23:48:36
 
 ---
 
+交流群：[Telegram Group](https://t.me/+uGNvWhiMf91lZmU1)
+
+---
+
 对于在中国大陆的用户，你可以使用以下链接，可以注册魔戒机场加速访问并支持我
 [魔戒](https://mojie.info/#/register?code=3AojYHNV)
